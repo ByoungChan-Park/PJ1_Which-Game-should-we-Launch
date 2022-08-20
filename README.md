@@ -8,7 +8,7 @@
 https://www.kaggle.com/datasets/gregorut/videogamesales<br>
 1975년~2020년까지의 10만장 이상 판매된 비디오게임 데이터
 <br><br>
-Data preview
+#### Data preview
 ![](./images/data_preview.jpg)
 <br>
 <br>
