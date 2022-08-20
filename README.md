@@ -1,4 +1,7 @@
 ## **Which game should we launch**
+#### 파일 설명
+    Session1_Project_AI9_박병찬.ipynb : 분석 진행 파일
+    images : readme 첨부 사진모음
 <br>
 
 ### **사용한 데이터**
